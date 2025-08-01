@@ -1,5 +1,5 @@
 # 📊 Financial Analysis AI Multi-agent Crew
-A powerful multi-agent system built with CrewAI to perform comprehensive financial analysis and generate trading strategies for any given company stock. This crew of AI agents collaborates in a hierarchical structure, leveraging the powerful reasoning capabilities of Mistral language models to deliver in-depth, actionable insights.
+A powerful multi-agent system built with CrewAI to perform comprehensive financial analysis and generate trading strategies for any given company stock. This crew of AI agents collaborates in a hierarchical structure, leveraging the powerful reasoning capabilities of OpenAI language models to deliver in-depth, actionable insights.
 
 ## ✨ Features
 ✅ Autonomous Agent Crew: A team of specialized AI agents that work together to automate complex financial analysis.
